@@ -1,0 +1,18 @@
+{
+    "applications": [
+        {
+            "name": "Notepad++",
+            "executable": "Program Files (x86)/Notepad++/notepad++.exe",
+            "wine_prefix": "~/.wine",
+            "architecture": "32-bit",
+            "status": "installed"
+        },
+        {
+            "name": "windows notepad",
+            "executable": "windows/system32/notepad.exe",
+            "wine_prefix": "~/.wine",
+            "architecture": "64-bit",
+            "status": "installed"
+        }
+    ]
+}
